@@ -16,3 +16,5 @@ function clearCounter() {
 function displayResult(result) {
     headerEl.textContent = result
 }
+
+// testing to see if this triggers a change in git
